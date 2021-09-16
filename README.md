@@ -40,7 +40,9 @@ We aim to detect the spoofing attacks on text-independent speaker verification s
 
 <img src="./images/overview.png" alt="overview" style="zoom:67%;" />
 
-                                                                                                <center>**Figure 4: A modular representation of CaField**</center>
+```html
+                                             <center>**Figure 4: A modular representation of CaField**</center>
+```
 
 # Performance
 
