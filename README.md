@@ -40,7 +40,7 @@ We aim to detect the spoofing attacks on text-independent speaker verification s
 
 <img src="./images/overview.png" alt="overview" style="zoom:67%;" />
 
-​                                                                                                **Figure 4: A modular representation of CaField**
+                                                                                                <center>**Figure 4: A modular representation of CaField**</center>
 
 # Performance
 
@@ -52,6 +52,8 @@ Our evaluation on a dataset of 20 people and 8 loudspeakers shows that by relyin
 | :--------------------------: | :----------: | :-----: | :-----: | :-----: |
 |   Detect spoofing attacks    |    99.16%    |  0.82%  |  0.97%  |  0.85%  |
 | Differentiate human speakers |    98.42%    |  1.87%  |  1.43%  |  1.84%  |
+
+
 
 
 
