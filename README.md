@@ -80,7 +80,7 @@ Yan C, Long Y, Ji X, et al. The catcher in the field: A fieldprint based spoofin
 # Contact
 * Prof. Wenyuan Xu (<wyxu@zju.edu.cn>)
 * Prof. Xiaoyu Ji (<xji@zju.edu.cn>)
-* Dr. Chen Yan(yanchen@zju.edu.cn)
+* Dr. Chen Yan (yanchen@zju.edu.cn)
 
 # Powered by
 
