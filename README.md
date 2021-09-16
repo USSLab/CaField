@@ -26,7 +26,7 @@ The directivity of a sound field is affected by both the sound source and the ge
 
 ![moire](./images/soundfield.png)
 
-​                         **Figure 3: A 2-D simulation of sound fields in the air (on the 1st row) and their directivity patterns (on the 2nd row). **
+​                         **Figure 3: A 2-D simulation of sound fields in the air (on the 1st row) and their directivity patterns (on the 2nd row).** 
 
 # Threat Model
 
@@ -40,9 +40,7 @@ We aim to detect the spoofing attacks on text-independent speaker verification s
 
 <img src="./images/overview.png" alt="overview" style="zoom:67%;" />
 
-```html
-                                             <center>**Figure 4: A modular representation of CaField**</center>
-```
+​                                                                  **Figure 4: A modular representation of CaField**
 
 # Performance
 
